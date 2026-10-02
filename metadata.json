@@ -1,0 +1,8 @@
+{
+  "name": "QuranRise Academy | Learn Quran Online",
+  "description": "QuranRise Academy provides online Quran, Tajweed, Hifz and Islamic Studies classes for children and adults with flexible one-to-one learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
